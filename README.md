@@ -6,11 +6,12 @@
 | ----------- | ----------------------------------------------------------------------------------------------------------- |
 | 中文名称    | 腾讯云图像分析（TIIA）插件                                                                                  |
 | 英文名称    | tencentcloud-plugin-tiia                                                                                     |
-| 最新版本    | v1.0.0 (2020.08.10)                                                                                         |
+| 最新版本    | v1.0.1 (2020.11.05)                                                                                         |
 | 适用平台    | [DCloud uni-app](https://uniapp.dcloud.net.cn)                                                              |
 | 适用产品    | [腾讯云图像分析（TIIA）](https://cloud.tencent.com/product/tiia)                                            |
 | GitHub 项目 | [tencentcloud-uniapp-plugin-tiia](https://github.com/Tencent-Cloud-Plugins/tencentcloud-uniapp-plugin-tiia) |
 | 主创团队    | 腾讯云中小企业产品中心（SMB Product Center of Tencent Cloud）                                               |
+| 兼容平台   | H5、小程序、APP |
 
 一款帮助开发者在 uni-app 项目开发中快捷使用腾讯云图像分析（TIIA）产品功能的插件。
 
@@ -128,9 +129,17 @@ export default {
 | --------------- | ---------------------------------------------------------------------- |
 | DCloud 插件市场 | [腾讯云图像分析（TIIA）插件](https://ext.dcloud.net.cn/plugin?id=2520) |
 
-## 6. GitHub 版本迭代记录
+## 6. FAQ
+> 暂无
 
-### 6.1. tencentcloud-uniapp-plugin-vod v1.0.0
+
+## 7. GitHub 版本迭代记录
+
+### 7.1. tencentcloud-uniapp-plugin-vod v1.0.1
+
+- APP端适配
+
+### 7.2. tencentcloud-uniapp-plugin-vod v1.0.0
 
 - 新增图像理解功能
   - 图像标签
@@ -146,8 +155,8 @@ export default {
 - 新增图像质量评估功能
   - 图像质量评估
 
-## 7. 联系我们
+## 8. 联系我们
 
 &nbsp;&nbsp;&nbsp;扫码备注“春雨”来联络到我们</br>
-![](./images/qrcode.png)
+![](../images/qrcode.png)
 
